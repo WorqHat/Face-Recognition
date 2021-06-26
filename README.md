@@ -1,11 +1,5 @@
 # Face recognition with ArcFace
 
-Code for https://www.learnopencv.com/face-recognition-with-arcface/ blog post which illustrates concepts from face recognition.
-
-## Original source code
-
-Some parts of the code and trained face identification model are from [face.evoLVe](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch) repository which is released under the [MIT License](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch/blob/master/LICENSE). Huge thanks to them!
-
 ## Installation
 
 Use your Python virtual environment such as [virtualenv](https://virtualenv.pypa.io/en/latest/) to isolate project.
